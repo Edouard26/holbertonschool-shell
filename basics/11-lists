@@ -1,7 +1,2 @@
 #!/bin/bash
-    Press Windows + R
-    Press Enter
-    Type cmd
-    Press Enter
-    Type dir -s
-    Press Enter
+ls -la /holbertonschool-shell/basics/boot
