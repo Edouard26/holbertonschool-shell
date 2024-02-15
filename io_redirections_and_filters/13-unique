@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p -eq 1	
+read -p 	
