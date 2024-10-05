@@ -1,3 +1,10 @@
-# holbertonschool-shell
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+General
 
-This is my repository for the project 5, which is named basics shell
+    How to navigate in an Unix system
+    How to list files and directories
+    How to display the content of a file
+    How to create a file or directory
+    How to remove a file or directory
+    How to move or copy a file or directory
+
